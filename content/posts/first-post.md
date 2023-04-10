@@ -1,8 +1,13 @@
----
-title: "First Post"
-date: 2022-09-05T22:27:36+02:00
-draft: true
----
++++
+author = "Hido"
+title = "First Post"
+date = "2023-04-10"
+description = "How the first page should look like"
+tags = [
+    "firstpage",
+]
+
++++
 
 
 What's wrong with me? I'm trying to write a new post, but the `draft` is set to `true`. What's that?
