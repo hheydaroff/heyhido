@@ -1,4 +1,4 @@
-baseURL = 'http://heyhido.com'
+baseURL = 'https://hheydaroff.github.io/heyhido/'
 Theme = 'hugo-theme-mini'
 languageCode = 'en-us'
 title = 'Hey Hido'
